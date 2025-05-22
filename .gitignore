@@ -2,3 +2,6 @@
 ml/datasets/all-data-filtered.csv.gz
 ml/model/graph_model.pickle
 ml/model/graph_model.pkl
+ml/saved_models/RandomForestModel.joblib
+ml/saved_models/lstm.keras
+ml/saved_models/model.h5
